@@ -1,0 +1,8 @@
+{
+  "name": "water-walls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oneandwholly/water-walls.git",
+  "author": "Jon Huh <oneandwholly@gmail.com>",
+  "license": "MIT"
+}
